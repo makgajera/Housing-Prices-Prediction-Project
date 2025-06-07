@@ -1,6 +1,6 @@
 # House Prices Prediction
 
-This project predicts house sale prices using a dataset from the Kaggle House Prices competition. The goal is to build a regression model that accurately estimates house prices based on various features.
+This project predicts house sale prices using a dataset from the Kaggle. The goal is to build a regression model that accurately estimates house prices based on various features.
 
 ## Project Overview
 
